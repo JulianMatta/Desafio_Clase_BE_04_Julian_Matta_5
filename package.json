@@ -1,11 +1,19 @@
 {
   "name": "desafio_clase_be_04_julian_matta_5",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julianoxe234/Desafio_Clase_BE_04_Julian_Matta_5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Julianoxe234/Desafio_Clase_BE_04_Julian_Matta_5/issues"
+  },
+  "homepage": "https://github.com/Julianoxe234/Desafio_Clase_BE_04_Julian_Matta_5#readme",
+  "description": ""
 }
